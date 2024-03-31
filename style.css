@@ -658,10 +658,6 @@ main .intro{
     width: 20rem;
     padding-left: 2rem;
     margin-top: 26rem;
-
-    animation: parallax-reverse linear;
-    animation-timeline: scroll();
-    
 }
 .intro h1{
     background-color: #f0f8ff00;
@@ -689,7 +685,7 @@ main .intro{
 /*------------------*/
 
 .sobreMim{
-    margin-top: 8rem;
+    margin-top: 3rem;
     width: 100%;
     height: auto;
 
