@@ -658,6 +658,9 @@ main .intro{
     width: 20rem;
     padding-left: 2rem;
     margin-top: 26rem;
+
+    animation: parallax-reverse linear;
+    animation-timeline: scroll();
     
 }
 .intro h1{
