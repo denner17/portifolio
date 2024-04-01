@@ -190,7 +190,7 @@ main{
         }
         
         .icons i{
-            font-size: 50px;
+            font-size: 2rem;
             margin-left: 30px;
         }
         .icons i:hover{
@@ -518,7 +518,7 @@ footer hr{
                 footer .redesSociais .icons2{
                     padding-top: 1rem;
                     text-align: right;
-                    font-size: 4rem;
+                    font-size: 2rem;
                     
                 }
             /*--------------/REDES_SOCIAIS--------------*/
